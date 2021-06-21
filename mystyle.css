@@ -10,14 +10,18 @@ h1{
 button[type=button]{
 	background-color: #DFFFDF;s
 	color:gray;
-	margin-left:400px;
+	margin-left:300px;
 }
-div:hover {
+div:hover ul{
 	display: block;
 }
 
 img{
-	margin-left:400px;
+	margin-left:300px;
 	
 
+}
+ul{
+	background-color: #FFC78E;
+	
 }
