@@ -1,2 +1,2 @@
-#[Please visit my homepage](/image/sample.png "This is a sample image.")
+Please visit my homepage<https://lifisastrug.github.io/>
 # lifisastrug.github.io
