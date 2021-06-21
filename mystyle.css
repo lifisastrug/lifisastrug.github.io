@@ -1,4 +1,8 @@
-div{
-  color:white;
-  background-color: #FFFF
+:: markers{
+
+}
+h1{
+	color: white;
+	background-color: #FFFF00;
+	text-shadow: 2px 3px 4px #000000
 }
