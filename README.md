@@ -1,2 +1,2 @@
-[Please visit my homepage]<https://lifisastrug.github.io/>
+[Please visit my homepage](https://lifisastrug.github.io/)
 # lifisastrug.github.io
